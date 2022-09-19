@@ -1,5 +1,5 @@
 # SRI B2E: Privacy Policy
-Welcome to the Shake Alarm Clock app for Android!
+Welcome to the SRI B2E app for Android!
 
 This is an open source Android app developed by IT Department of SRI. The source code is available on Bitbucket and for Company Needs; the app is also available on Google Play.
 
