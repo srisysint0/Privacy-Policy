@@ -9,6 +9,10 @@ I have only programmed this app to collect locations dan pictures for company ne
 
 If you find any security vulnerability that has been inadvertently caused by our application, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 
+
+
 Yours sincerely,
+
 IT Department of SRI.
+
 Bogor, Indonesia.
